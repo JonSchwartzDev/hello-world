@@ -2,10 +2,8 @@
 
 I'm a computer scientist by education.
 
-I'm a user researcher and user centered designer by experience.
+I'm a multiply-successful startup guy, and thus a wearer of many hats.
 
-I'm a startup guy, and thus wearer of many hats.
+I'm a user researcher and user centered designer by interest and experience.
 
-But most especially, I design and develop and deliver great user experiences and user interfaces, of software or web or mobile tech.
-
-The users' experience is the point of any product or service.
+My passion is to understand people and what they are trying to do, and understand the latest tech and what it is capable of, and bring those understandings together to design and develop and deliver great user and customer experiences. Because their experiences are the point of any product or service, and so are the surest base for a successful company to build on.
